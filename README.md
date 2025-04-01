@@ -21,7 +21,7 @@ I'm a full stack developer based in Canada, passionate about building clean, sca
 ---
 
 ### 🏥 OptiVue *(in development)*
-*Healthcare platform built from scratch to streamline clinic workflows and patient data handling.*  
+*Healthcare platform built from scratch to streamline clinic workflows and patient data handling for optometry clinics.*  
 <sub>Tech: Next.js, TypeScript, PostgreSQL, Modular Architecture</sub>
 
 ---
