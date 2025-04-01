@@ -46,8 +46,3 @@ React app for managing interview bookings with full testing suite (Storybook, Je
 - **Email:** [a.patel38@hotmail.com](mailto:a.patel38@hotmail.com)  
 - **LinkedIn:** [linkedin.com/in/ashish-patel-0b13a2219](https://www.linkedin.com/in/ashish-patel-0b13a2219)
 
----
-
-## 🕒 GitHub Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=apatel924&theme=dark&hide_border=true)](https://git.io/streak-stats)
