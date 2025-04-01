@@ -10,18 +10,6 @@ I'm a full stack developer based in Canada, passionate about building clean, sca
 - 🧠 Learning **Laravel** (PHP) and exploring **Python**
 - 📱 Maintaining and growing **Quiz Arena**
 
----
-
-## 🛠️ Tech Stack
-
-**Languages:** JavaScript, TypeScript, Python (learning), PHP (learning)  
-**Frontend:** React, React Native, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express, PostgreSQL, MongoDB  
-**Tools:** Git, Docker, AWS, Storybook, Jest, Sentry  
-**Design:** Figma, Material UI
-
----
-
 ## 💡 Projects
 
 ### 🧠 [Quiz Arena](https://linktr.ee/quizarena)
