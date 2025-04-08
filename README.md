@@ -7,7 +7,7 @@ I'm a full stack developer based in Canada, passionate about building clean, sca
 ## 🎯 Current Focus
 
 - 🧠 Building **OptiVue** *(Next.js, TypeScript, PostgreSQL)*
-- 🔧 Learning **Laravel (PHP)** and exploring **Python**
+- 🔧 Learning **C# (.NET)** and exploring **Python**
 - 🧩 Maintaining and growing **Quiz Arena**
 
 ---
