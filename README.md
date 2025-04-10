@@ -20,7 +20,7 @@ I'm a full stack developer based in Canada, passionate about building clean, sca
 
 ---
 
-### 🏥 OptiVue *(https://github.com/apatel924/opti-crm)*
+### 🏥 [OptiVue](https://github.com/apatel924/opti-crm)
 *Healthcare platform built from scratch to streamline clinic workflows and patient data handling for optometry clinics.*  
 <sub>Tech: Next.js, TypeScript, PostgreSQL, Modular Architecture</sub>
 
