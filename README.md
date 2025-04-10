@@ -26,13 +26,19 @@ I'm a full stack developer based in Canada, passionate about building clean, sca
 
 ---
 
-### 🌍 Remote-Together  
+### 🤖 [Wikipedia Candidate Scraper](https://github.com/apatel924/CandidateInfoAPI)
+*A lightweight scraper built with C# and HtmlAgilityPack to extract candidate details from Wikipedia's 2023 Alberta general election page.*  
+<sub>Tech: C#, .NET, HtmlAgilityPack, Entity Framework Core, SQLite</sub>
+
+---
+
+### 🌍 [Remote-Together](https://github.com/apatel924/remote_together)
 *Coworking spot finder with live chat and interactive map features.*  
 <sub>Tech: React, Tailwind, Google Maps API, Socket.io</sub>
 
 ---
 
-### 📌 Resource-Wall  
+### 📌 [Resource-Wall](https://github.com/roylyh/Resource-Wall)
 *A Pinterest-style app for saving and managing learning resources.*  
 <sub>Tech: Node.js, Express, PostgreSQL, EJS</sub>
 
