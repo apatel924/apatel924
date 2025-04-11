@@ -1,6 +1,6 @@
 # Hey there, I'm Ashish 👋
 
-I'm a full stack developer based in Canada, passionate about building clean, scalable apps. Currently building **OptiVue**, a healthcare platform for optometry clinics optimizing workflow and organization, and running **Quiz Arena**, a multiplayer quiz app with 1,000+ monthly users and 100k+ games played.
+I'm a full stack developer based in Canada, building clean, scalable apps. Currently building **OptiVue**, a healthcare platform for optometry clinics optimizing workflow and organization, and running **Quiz Arena**, a multiplayer quiz app with 1,000+ monthly users and 100k+ games played.
 
 ---
 
