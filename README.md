@@ -59,4 +59,4 @@ I'm a full stack developer based in Canada, building clean, scalable apps. Curre
 
 ## Resume
 
-
+- **https://flowcv.com/resume/1878gmkbmh**
