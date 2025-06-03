@@ -21,7 +21,7 @@ I'm a full stack developer based in Canada, building clean, scalable apps. Curre
 ---
 
 ### 🏥 [OptiVue](https://github.com/apatel924/opti-crm)
-*Healthcare platform built from scratch to streamline clinic workflows and patient data handling for optometry clinics.*  
+*Healthcare platform built from scratch to streamline clinic workflows and patient data handling for optometry clinics. With optimized Ai for increased productivity*  
 <sub>Tech: Next.js, TypeScript, PostgreSQL, Modular Architecture</sub>
 
 ---
