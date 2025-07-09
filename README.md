@@ -44,7 +44,7 @@ I'm a full stack developer based in Canada, building clean, scalable apps. Curre
 
 ---
 
-### 📋 Interview Scheduler  
+### 📋 [Interview Scheduler](https://github.com/apatel924/speercheck)
 *React app for managing interview bookings with full testing suite.*  
 <sub>Tech: React, WebSockets, Storybook, Jest, Cypress</sub>
 
