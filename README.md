@@ -50,6 +50,12 @@ I'm a full stack developer based in Canada, building clean, scalable apps. Curre
 
 ---
 
+### 📂 [Resume Builder]([https://github.com/apatel924/speercheck](https://github.com/apatel924/resume_builder))
+*Craft professional resumes in minutes with an intuitive, live‑preview resume builder.*  
+<sub>Tech: React, Next, Typescript, Tailwind, Shadcn, React Context, Google auth, lucide-react</sub>
+
+---
+
 ## 📬 Contact
 
 - **Email:** [a.patel38@hotmail.com](mailto:a.patel38@hotmail.com)  
